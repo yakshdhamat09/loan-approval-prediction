@@ -188,4 +188,4 @@ python loan_prediction.py
 ## 👤 Author
 
 **Internship Project** — Alfido Tech
-**Yaksh M. Dhamat**
+Yaksh M. Dhamat
